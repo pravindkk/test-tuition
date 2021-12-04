@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "testtuition",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/pravind/Desktop/code/2022/test-tuition/amplify/backend/api/testtuition/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2022-12-04T14:48:46.088Z",
+      "keyDescription": "demo"
+    }
+  }
+}
